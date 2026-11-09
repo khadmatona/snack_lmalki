@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+CLAUDE.md
+**/CLAUDE.md
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
